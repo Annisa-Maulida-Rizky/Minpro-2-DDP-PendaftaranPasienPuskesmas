@@ -74,3 +74,24 @@ Pada gambar di atas menampilkan tabel data pasien yang telah didaftarkan sebelum
 <img width="299" height="72" alt="Screenshot 2026-10-06 155400" src="https://github.com/user-attachments/assets/1bf9b1fe-7fc3-468a-a1c0-3970d9c2513b" />
 
 Pada gambar diatas, admin memilih menu 5, yaitu logout sehingga menampilkan "Logout berhasil" dan kembali ke tampilan awal(halaman login)
+
+## Role User
+### Menu 1
+<img width="427" height="280" alt="image" src="https://github.com/user-attachments/assets/1f75505c-d4a8-4ee1-8183-9776fd3397e1" />
+
+Pada gambar diatas user menambahkan data pasien dengan menginput nama, umur, dan keluhan pasien. Kemudian sistem yang akan menentukan poli mana pasien masuk dan menampilkannya pada layar.
+
+### Menu 2 & 3
+<img width="381" height="79" alt="Screenshot 2026-10-06 161108" src="https://github.com/user-attachments/assets/d7f7ba3d-4ded-4f92-b35f-f93cfb800896" />
+
+Pada gambar diatas, karena bukan admin, maka user tidak memiliki akses terhadap menu 2 & 3, yaitu mengubah dan menghapus data.
+
+### Menu 4 dan 5
+<img width="364" height="204" alt="Screenshot 2026-10-06 161506" src="https://github.com/user-attachments/assets/f080a2ce-a5a1-4a5a-a1be-e39ecb76d59f" />
+
+Pada gambar diatas menampilkan tabel data pasien dari pilihan menu 4 dan dilanjut dengan tampilan awal karena memilih menu 5 yang keluar dari menu pilihan. 
+
+## Keluar Program
+<img width="392" height="47" alt="Screenshot 2026-10-06 162310" src="https://github.com/user-attachments/assets/cc2819f7-92f3-4e50-9d74-dc5f04d939bc" />
+
+Gambar diatas adalah akhir dari program karena pengguna mengetik 'keluar' sehingga program selesai.
