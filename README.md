@@ -8,7 +8,8 @@ Program ini adalah sistem pendaftaran pasien di puskesmas, yang memungkinkan pen
 
 # FLOWCHART
 
-<img width="2432" height="1890" alt="Minpro2 drawio" src="https://github.com/user-attachments/assets/c666b140-178a-44d2-8a69-03d395979675" />
+<img width="2500" height="1890" alt="FCMINPRO2 drawio" src="https://github.com/user-attachments/assets/18278447-fd8f-423d-b082-8eb47e3456ff" />
+
 
 ## Penjelasan:
 1. MULAI: Program dimulai
@@ -29,12 +30,12 @@ Program ini adalah sistem pendaftaran pasien di puskesmas, yang memungkinkan pen
    
 7. Menu 3(hapus data pasien)
 
-   Pada menu 3, jika role adalah admin, maka bisa menghapus data pasien dengan menginput nama pasien yang ingin dihapus.        Jika nama pasien tidak ditemukan, maka akan menampilkan nama pasien tidak valid. Namun jika nama pasien ditemukan, maka      sistem akan menghapus data pasien dari list. Jika role adalah user, maka akses ditolak dan akan menampilkan "Anda tidak      memiliki akses untuk mengubah data.". (jika sudah selesai, sistem akan mengulang ke tampilan input menu 1-5.)
+   Pada menu 3, jika role adalah admin, maka bisa menghapus data pasien dengan menginput nama pasien yang ingin dihapus.        Jika nama pasien tidak ditemukan, maka akan menampilkan nama pasien tidak valid. Namun jika nama pasien ditemukan, maka      sistem akan menghapus data pasien dari list. Jika role adalah user, maka akses ditolak dan akan menampilkan "Anda tidak      memiliki akses untuk mengubah data.". Dan akan mengulang ke input 1-5
 
    
 8. Menu 4(lihat data pasien)
 
-    Pada menu 4, role user dan admin sama-sama bisa melihat data pasien. Jika belum ada data pasien, maka akan menampilkan       'belum ada data pasien. Namun jika sudah ada data pasien, maka data pasien akan ditampilkan dalam bentuk                     tabel(PrettyTable).
+    Pada menu 4, role user dan admin sama-sama bisa melihat data pasien. Jika belum ada data pasien, maka akan menampilkan       'belum ada data pasien. Namun jika sudah ada data pasien, maka data pasien akan ditampilkan dalam bentuk                     tabel(PrettyTable). Dan akan mengulang ke input 1-5
 9. Menu 5(logout)
 
     Pada menu 5 adalah menu logout, dimana jika memilih ini maka user dan admin akan terlogout dari pilihan menu dan kembali     ke halaman login.
