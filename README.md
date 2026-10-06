@@ -8,7 +8,7 @@ NIM : 2609116061
 <img width="2432" height="1890" alt="Minpro2 drawio" src="https://github.com/user-attachments/assets/c666b140-178a-44d2-8a69-03d395979675" />
 
 Penjelasan:
-1. Start: Program dimulai
+1. MULAI: Program dimulai
    
    Halaman login: Sistem menampilkan menu login dan meminta pengguna untuk menginput username dan password.
 2. Proses Login: Sistem mengecek apakah login sebagai admin atau sebagai mahasiswa. Jika username atau password salah maka      login gagal dan meminta menginput ulang. jika berhasil maka akann menampilkan 'login berhasil' dan role. 
