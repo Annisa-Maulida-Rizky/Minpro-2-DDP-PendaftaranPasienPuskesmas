@@ -95,3 +95,8 @@ Pada gambar diatas menampilkan tabel data pasien dari pilihan menu 4 dan dilanju
 <img width="392" height="47" alt="Screenshot 2026-10-06 162310" src="https://github.com/user-attachments/assets/cc2819f7-92f3-4e50-9d74-dc5f04d939bc" />
 
 Gambar diatas adalah akhir dari program karena pengguna mengetik 'keluar' sehingga program selesai.
+
+## Library yang di gunakan
+1. pwinput: untuk mengubah password menjadi katakter (*) saat meng-inputkannya.
+2. os.system : untuk membersihkan system pada bagian awal terminal sehingga lebih terlihat rapi dan bersih
+3. prettytable : untuk membuat tabel pada menu ke 4, sehingga data pasien lebih terstruktur dan rapi.
